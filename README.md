@@ -202,7 +202,7 @@ continuously, but a general idea should be a good starting point to
 understand more. Moreover most of the code is heavily commented and easy
 to follow.
 
-Source code layout
+Source code layout. 
 ---
 
 The Redis root directory just contains this README, the Makefile which
